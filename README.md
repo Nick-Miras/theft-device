@@ -1,2 +1,2 @@
 # theft-device
-SIM-800L based tracking device.
+A9G based tracking device.
